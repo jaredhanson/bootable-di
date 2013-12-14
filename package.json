@@ -1,7 +1,7 @@
 {
   "name": "bootable-ioc",
   "version": "0.0.0",
-  "description": "TODO",
+  "description": "IoC variant of core Bootable phases.",
   "keywords": [
     "bootable",
     "di",
