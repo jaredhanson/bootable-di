@@ -19,6 +19,7 @@
   "bugs": {
     "url": "http://github.com/jaredhanson/bootable-ioc/issues"
   },
+  "license": "MIT",
   "licenses": [
     {
       "type": "MIT",
@@ -29,11 +30,11 @@
   "dependencies": {
     "parent-require": "1.x.x",
     "scripts": "0.1.x",
-    "debug": "0.7.x"
+    "debug": "3.1.x"
   },
   "devDependencies": {
-    "mocha": "1.x.x",
-    "chai": "1.x.x"
+    "mocha": "5.x.x",
+    "chai": "4.x.x"
   },
   "engines": {
     "node": "*"
